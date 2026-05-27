@@ -4,33 +4,7 @@ Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
 
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
-TripleTen_Projects/
-│
-├── README.md
-│
-├── 01_Storytelling_With_Data/
-│   ├── README.md
-│   ├── datasets/
-│   ├── visuals/
-│   └── tableau_dashboards/
-│
-├── 02_Advanced_Spreadsheets/
-│   ├── README.md
-│   ├── datasets/
-│   ├── excel_models/
-│   └── visuals/
-│
-├── 03_Business_Analytics_Project/
-│   ├── README.md
-│   ├── datasets/
-│   ├── reports/
-│   └── visuals/
-│
-├── 04_Career_Strategy_Project/
-│   ├── README.md
-│   ├── research/
-│   └── career_planning_documents/
-│
-└── assets/
-    ├── images/
-    └── dashboards/
+| 1 | Storytelling with Data – Norbu Stress Control | The project task was to analyze user engagement data and identify possible causes for low conversion and retention rates for a stress management platform. |
+| 2 | Advanced Spreadsheets Analysis | The project task was to use advanced spreadsheet functions, pivot tables, and KPI tracking to analyze business data and generate actionable insights. |
+| 3 | Business Analytics Project | The project task was to analyze business performance data, identify trends, and support data-driven decision-making through reporting and visualization. |
+| 4 | Career Strategy & Market Research | The project task was to develop a professional job search strategy focused on Business Intelligence and Data Analytics career opportunities, target industries, and networking research. |
